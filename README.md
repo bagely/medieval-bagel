@@ -6,4 +6,11 @@ A EECS 442 final project to reproduce and extend an image style transferring mod
 2. Go to `main.py` and update the configs from line 8 to line 16.
 3. Run `python main.py` to start the program.
 
+## Results
+*A bird dancing in modern style*
+
+![A bird dancing in modern style](https://user-images.githubusercontent.com/7604366/102679857-dca83d80-41ed-11eb-8996-d40fb4acbd07.gif)
+
+*A bird dancing in medieval style*
+
 ![A bird dancing in medieval style](https://user-images.githubusercontent.com/7604366/102679832-a1a60a00-41ed-11eb-888a-e711f68f12e1.gif)
